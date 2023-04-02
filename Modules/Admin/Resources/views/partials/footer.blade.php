@@ -19,13 +19,13 @@
 </div>
 
 <footer class="main-footer">
-    <div class="pull-right hidden-xs">
+    {{-- <div class="pull-right hidden-xs">
         <span>v{{ fleetcart_version() }}</span>
-    </div>
+    </div> --}}
 
     <a href="#" data-toggle="modal" data-target="#keyboard-shortcuts-modal">
         <i class="fa fa-keyboard-o"></i>
     </a>&nbsp;
 
-    <span>Copyright &copy; {{ date('Y')}} <a href="#" target="_blank">Royal Beauty</a></span>
+    <span>Copyright &copy; {{ date('Y')}} <a href="#" target="_blank">Zevello</a></span>
 </footer>
